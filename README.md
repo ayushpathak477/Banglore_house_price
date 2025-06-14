@@ -39,7 +39,7 @@ Bangalore_House_Prediction/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/Bangalore_House_Prediction.git
+git clone https://github.com/ayushpathak887/Bangalore_House_Prediction.git
 cd Bangalore_House_Prediction
 ```
 
@@ -120,6 +120,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contact
 
-Your Name - [your.email@example.com](mailto:your.email@example.com)
+Your Name - [ayushpathak887@gmail.com](mailto:ayushpathak887@gmail.com)
 
-Project Link: [https://github.com/yourusername/Bangalore_House_Prediction](https://github.com/yourusername/Bangalore_House_Prediction) 
+Project Link: [https://github.com/ayushpathak887/Bangalore_House_Prediction](https://github.com/ayushpathak887/Bangalore_House_Prediction) 
